@@ -1,0 +1,11 @@
+{
+    "name": "websemantics/blog-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Websemantics\\BlogModule\\": "src/"
+        }
+    },
+    "require": {
+    }
+}
